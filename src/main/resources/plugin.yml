@@ -1,0 +1,26 @@
+name: GrapplerLite
+version: 1.0
+main: me.farhan.GrapplerLite
+api-version: 1.15
+author: Farhan Ali
+description: A cool grappling hook plugin made with ❤️ by Farhan.
+website: https://discord.gg/skynix
+
+commands:
+  gp:
+    description: Grappling Hook command
+    usage: /gp <give|reload>
+    permission: gp.use
+
+permissions:
+  gp.use:
+    description: Allows using the grappling hook
+    default: true
+
+  gp.give:
+    description: Allows giving grappling hooks to players
+    default: op
+
+  gp.reload:
+    description: Allows reloading the plugin config
+    default: op
