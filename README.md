@@ -37,12 +37,7 @@ Default config is generated on first run:
 
 ## Crafting Recipe (if enabled)
 
- S
-SRS
- S
-
-- `S` = String  
-- `R` = Fishing Rod
+![Crafting Recipe](assets/crafting.png)
 
 ## License
 
