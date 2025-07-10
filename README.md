@@ -37,7 +37,7 @@ Default config is generated on first run:
 
 ## Crafting Recipe (if enabled)
 
-![Crafting Recipe](assets/crafting.pn)
+![Crafting Recipe](assets/crafting.png)
 
 ## License
 
