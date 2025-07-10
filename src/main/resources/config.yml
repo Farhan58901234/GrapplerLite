@@ -1,0 +1,35 @@
+# ===============================
+#  Grapler Plugin Configuration
+#  Made with ♥ by Farhan
+# ===============================
+
+# Cooldown time in seconds between each grapple use
+cooldown: 2
+
+# Pull force applied when grappling
+pull-power: 2.5
+
+# Extra boost when the player is sprinting
+sprint-boost: 0.5
+
+# Enable or disable crafting of the Grappling Hook
+enable-crafting: true
+
+# Display name of the Grappling Hook
+hook-name: "&bGrappling Hook"
+
+# Lore/description shown on the item
+hook-lore:
+  - "&7Right-click to pull yourself."
+  - "&8Reusable grappling tool."
+  - "&f"
+  - "&3Made with &b♥ &3by Farhan"
+  - "&8Designed for smooth travel, stylish flex."
+
+# Default number of uses for crafted grappling hooks
+default-uses: 20
+
+# ===============================
+#  Thank you for using Grapler!
+#  Feedback? Join discord.gg/skynix.
+# ===============================
